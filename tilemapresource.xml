@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>newquay_east_1m_mlw_hill_rend.tif</Title>
+      <Title>scilly_1m_mlw_hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-4.96887175800559" miny="50.31244489927501" maxx="-4.81064915387788" maxy="50.60335232378309"/>
-      <Origin x="-4.96887175800559" y="50.31244489927501"/>
+      <BoundingBox minx="-6.45269337394109" miny="49.84216572475454" maxx="-6.20287282904506" maxy="50.00345322010091"/>
+      <Origin x="-6.45269337394109" y="49.84216572475454"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
